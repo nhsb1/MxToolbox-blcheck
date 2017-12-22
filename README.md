@@ -4,7 +4,7 @@ MxToolbox-blcheck reports the blacklist status, and days since the IP was last r
 Install
 -------
 
-    Download the mxtoolbox-blcheck.py file and run it from a shell
+    Download the mxtoolbox-blcheck.py, replace the URL string with your individual REST API link, and run the .py from a shell
 
 Usage
 -----
