@@ -14,7 +14,10 @@ Usage
 Requirements
 -----
 Create a (free) account on MxToolbox.com
+
 Add the IP address you want to monitor for blacklist activity (https://mxtoolbox.com/User/Dashboard/Monitors.aspx)
+
 Find your individual REST API link at the above URL
+
 Edit mxtoolbox-blcheck.py and replace the URL= string the REST API link you got above
 
